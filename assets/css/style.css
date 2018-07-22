@@ -1,0 +1,26 @@
+body {
+    background-image: url("../../assets/images/background.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+.card {
+    padding: 0;
+    border-color: black;
+    border-style: ridge;
+    background-color: black;
+    opacity: .9;
+    font-weight: bold;
+    color: white;
+    border-color: mediumaquamarine;
+}
+.card-body{
+    border: 0 !important;
+    border-style: none;
+}
+.list-group-item{
+    background-color: black;
+}
